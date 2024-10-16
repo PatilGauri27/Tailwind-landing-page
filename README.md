@@ -1,4 +1,2 @@
 # Tailwind-landing-page
-
-![Landing-page-output-img](https://github.com/user-attachments/assets/054c94f3-05dd-47e6-a602-303a0d80fb92)
-
+![Landing-page-output-img](https://github.com/user-attachments/assets/cb5f3d8d-0551-4226-84df-b317482b1a15)
